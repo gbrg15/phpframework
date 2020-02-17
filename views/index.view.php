@@ -7,9 +7,9 @@
 
 <nav>
   <ul>
-    <li><a href="/about.view.php">About us</a></li>
-    <li><a href="/contact.view.php">Contact</a></li>
-    <li><a href="/about.php">About us</a></li>
+    <li><a href="about">About us</a></li>
+    <li><a href="contact">Contact</a></li>
+    <li><a href="about/culture">About our culture</a></li>
   </ul>
 </nav>
 <h1>User list</h1>
