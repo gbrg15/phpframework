@@ -1,6 +1,9 @@
 <?php
-require 'Users.php';
 
+$query = require 'core/bootstrap.php';
 
-require 'index.view.php';
- ?>
+$router = new Router();
+
+require 'routes.php';
+
+require $router->direct('about/culture');
