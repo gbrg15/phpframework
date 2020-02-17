@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
+<?php require 'views/partials/head.php' ?>
 <h1>Contact</h1>
 
 
